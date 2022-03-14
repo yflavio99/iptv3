@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="canais", Record
+http://127.0.0.1:61698/output.m3u8
